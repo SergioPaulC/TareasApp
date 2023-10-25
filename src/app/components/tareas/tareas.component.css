@@ -1,0 +1,17 @@
+input{
+    text-align: center;
+}
+.form-control-lg{
+    font-size: 1.8rem;
+}
+.cursor{
+    cursor:pointer;
+}
+.icono:hover{
+    color:red;
+}
+.bb{
+/*     -webkit-box-shadow: 1px -2px 10px 2px  rgba(221,230,161,0.68);
+    -moz-box-shadow:1px -2px 10px 2px rgba(221,230,161,0.68); */
+    box-shadow: 1px -2px 10px 2px rgba(59, 198, 112, 0.85);
+}
